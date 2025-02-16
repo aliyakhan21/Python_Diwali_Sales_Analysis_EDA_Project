@@ -8,6 +8,6 @@ The objective of the Diwali Sales Analysis EDA project is to explore and analyze
 
 ### 🛠 Tools & Technologies Used
 
-1.Python (Pandas, NumPy)
-2.Data Visualization (Matplotlib, Seaborn)
-3.Jupyter Notebook
+    1.Python (Pandas, NumPy)
+    2.Data Visualization (Matplotlib, Seaborn)
+    3.Jupyter Notebook
